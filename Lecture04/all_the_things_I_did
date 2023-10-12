@@ -1,0 +1,41 @@
+commit 6784bda8db61b14e2c49c948297933692c8ad1ef
+Author: Bxxxxxx-2023
+Date:   Sun Oct 8 15:11:28 2023 +0100
+
+    Created a cool script, archived it uncompressed
+
+commit 40915b3239bd34da1a4c92d94b9696672c86313b
+Author: Bxxxxxx-2023
+Date:   Sun Oct 8 15:05:23 2023 +0100
+
+    Removed CodeFiles.tar and motif_file.txt
+
+commit 7971fe42baea8ff254e9741b62cce6f3eea8aa6a
+Author: Bxxxxxx-2023
+Date:   Thu Oct 5 19:05:13 2023 +0100
+
+    Adding initial tar file
+
+commit ccf80c64f94a2c41a38abd71fff460f6a4793d43
+Author: Bxxxxxx-2023
+Date:   Thu Oct 5 19:04:39 2023 +0100
+
+    CodeFiles all done and tar zipped
+
+commit 7870d6f4875a3f4297be195f8229a96c8ee4da73
+Author: Bxxxxxx-2023
+Date:   Thu Oct 5 18:52:33 2023 +0100
+
+    Adding motif file from lecture
+
+commit a3a0ef7f2d266e0de6cfb4bd0a89f55d1aa79ed5
+Author: B248681 <c.mcauliffe@ed.ac.uk>
+Date:   Thu Oct 5 18:02:43 2023 +0100
+
+    Removed test_text.txt
+
+commit 8f77a742d258f78679c940d81e281cb6323cb631
+Author: B248681 <c.mcauliffe@ed.ac.uk>
+Date:   Fri Sep 29 11:47:30 2023 +0100
+
+    First commit
